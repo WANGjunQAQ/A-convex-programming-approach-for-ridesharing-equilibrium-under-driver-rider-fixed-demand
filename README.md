@@ -14,3 +14,12 @@ The resulting folder denoted with result contains the output of the algorithm. T
                 driver3
                 
 
+epsilon1.csv and epsilon2.csv, these two files keep tracks of the running process of the algorithm. And they are of very similar form: both of them have just two columns, the first lists the iteration number of the outer loop, and the latter corresponds the value of epsilon associated the outer iteration.
+
+riders_price.csv just shows the resulting prices that riders have to pay to drivers as a compensation for detour time and some other inconvenience.
+
+run_duration.csv keep a record of total running time of whole algorithm. 
+
+tolerance.csv just stores the parameters setting of the algorithm.
+
+The folder JAVA_CODE is the java code to implement the algorithm.
